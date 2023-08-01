@@ -60,7 +60,9 @@
      <Compile Include="Assets\MouseLook.cs" />
      <Compile Include="Assets\MouseLookAFF.cs" />
      <Compile Include="Assets\RayShooter.cs" />
+     <Compile Include="Assets\ReactiveTarget.cs" />
      <Compile Include="Assets\Spin.cs" />
+     <Compile Include="Assets\WanderingAI.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
